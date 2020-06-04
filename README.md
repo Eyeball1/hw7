@@ -1,8 +1,8 @@
-# HW 6 - Good README Generator
+# HW 9 - Good README Generator
 
-  * Created by Kire Semada
+  * Created by davidmichaelhughey@gmail.com
 
-  * Github Repo Link: https://github.com/egadames/hw7
+  * Github Repo Link: https://github.com/Eyeball1/hw7/
 
 ## Description 
 
@@ -20,7 +20,7 @@
 
 ## Installation
 
-  * A npm i needs to be performed before running the app to install needed libraries.
+  * An 'npm i' needs to be performed before running the app to install needed libraries.
 
 ## Usage 
 
@@ -36,7 +36,7 @@
 
 ## Contributing
 
-  * please make a git pull request
+  * do make a git pull request
 
 ## Tests
 
@@ -52,8 +52,8 @@
 
   * User GitHub email
 
-    * Email: egadames990@gmail.com
+    * Email: davidmichaelhughey@gmail.com
   
   * User GitHub profile picture
 
-  ![github profile image](https://avatars.githubusercontent.com/u/32764408?)
+  ![github profile image](https://avatars.githubusercontent.com/u/61758955?)
